@@ -4,9 +4,12 @@ Scale-Rich Metamaterials (SR) are a new class of architected systems that overco
 
 This repository contains the code used to generate, analyze, and visualize the mechanical and acoustic properties of these heterogeneous structures.
 
-### Code Resources
+### Scale-Rich-Metamaterials generator code
 - **Python code for structure generation:**  
 [SR - Python](https://github.com/NiekMooij/RDG_networks.git)
 
 - **MATLAB code for structure generation:**  
 [SR - MATLAB](https://github.com/Ting-TingGao/SR-Net-generation-matlab.git)
+
+
+### FEM (Abaqus) code
