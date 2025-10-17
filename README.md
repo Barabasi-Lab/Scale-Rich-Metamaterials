@@ -1,1 +1,1 @@
-# Scale-Rich-Metamaterials-
+# Scale-Rich-Metamaterials
