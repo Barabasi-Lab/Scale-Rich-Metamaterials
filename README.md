@@ -10,6 +10,3 @@ This repository contains the code used to generate, analyze, and visualize the m
 
 - **MATLAB code for structure generation:**  
 [SR - MATLAB](https://github.com/Ting-TingGao/SR-Net-generation-matlab.git)
-
-
-### FEM (Abaqus) code
