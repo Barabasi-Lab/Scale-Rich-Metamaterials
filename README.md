@@ -5,7 +5,7 @@ Scale-Rich Metamaterials (SR) are a new class of architected systems that overco
 This repository contains the code used to generate SR architectures and the reference structures (square, hexagonal, and Voronoi lattices) described in:
 
 **Scale-Rich Network-Based Metamaterials**   
-(Csaba Both, Andrew Yen-Jong Chen, Ting-Ting Gao, Niek Mooij, Mohammad Charara,  Carlos M. Portela, Albert-László Barabási, 2025). 
+Csaba Both, Andrew Yen-Jong Chen, Ting-Ting Gao, Niek Mooij, Mohammad Charara,  Carlos M. Portela, Albert-László Barabási  
 
 ### Scale-Rich-Metamaterials generator code
 - **Python code for structure generation:**  
