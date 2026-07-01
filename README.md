@@ -15,7 +15,15 @@ Csaba Both, Andrew Yen-Jong Chen, Ting-Ting Gao, Niek Mooij, Mohammad Charara, J
 [SR - MATLAB](https://github.com/Ting-TingGao/SR-Net-generation-matlab.git)
 
 ### Scale-Rich-Metamaterials noteboooks
-Notebooks that generate SR samples with various parameters and domains. They output STL files and polygon lists.
+Notebooks that generate SR samples with various parameters and domains. They output STL files and polygon lists (saved as dictionary ```
+{ ligament_index : [ (x0, y0), (x1, y1), ... ] , ... }
+```).
 
 ### Reference systems
-Notebooks for generating square, hexagonal, and Voronoi lattices. They output STL files and polygon lists.
+Notebooks for generating square, hexagonal, triangular, Kagome, Voronoi and K-nearest foam lattices. They output STL files and polygon lists (saved as dictionary ```
+{ ligament_index : [ (x0, y0), (x1, y1), ... ] , ... }
+```).
+
+### Sample systems
+Example input geometries (polygon dictionaries, .pkl) paired with their directional stiffness outputs (.csv) for Scale-Rich and reference systems. The FEM pipeline is described in the README_FEA.md file. 
+
